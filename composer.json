@@ -1,0 +1,29 @@
+{
+    "name": "xibusuper/alipay-pocket-php-sdk",
+    "description": "支付宝服务窗平台SDK",
+    "keywords": [
+        "alipay",
+        "server",
+        "window",
+        "支付宝",
+        "服务窗"
+    ],
+    "homepage": "https://github.com/xibusuper/alipay-pocket-php-sdk",
+    "license": "MIT",
+    "minimum-stability": "stable",  
+    "authors": [
+        {
+            "name": "xibusuper",
+            "email": "253039738@qq.com",
+            "homepage": "http://github.com/xibusuper"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "alipay-pocket-php-sdk\\": "src/"
+        }
+    },
+    "require": {
+        "php":">=5.6.0"
+    }
+}
