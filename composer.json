@@ -25,5 +25,8 @@
     },
     "require": {
         "php":">=5.6.0"
-    }
+    },
+    "config": {  
+        "process-timeout": 1800  
+    }  
 }

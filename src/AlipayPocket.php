@@ -1,6 +1,8 @@
 <?php
-require_once './alipay/AopSdk.php';
-require_once './alipay/HttpRequst.php';
+namespace xibusuper/alipay-pocket-php-sdk;
+
+require_once 'alipay/AopSdk.php';
+require_once 'alipay/HttpRequst.php';
 
 /**
  * 支付宝钱包服务窗平台SDK
